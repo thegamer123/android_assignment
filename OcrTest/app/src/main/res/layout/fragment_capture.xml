@@ -47,6 +47,7 @@
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="20dp"
+                android:contentDescription="@string/text_preview_description_label"
                 android:scrollbars="horizontal"
                 android:textColor="@color/black"
                 android:textSize="19sp"

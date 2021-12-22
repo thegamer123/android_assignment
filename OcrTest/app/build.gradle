@@ -22,11 +22,9 @@ android {
 
         debug {
             buildConfigField 'String', 'baseUrl', baseUrl
-            buildConfigField 'String', 'Cookie', Cookie
         }
         release {
             buildConfigField 'String', 'baseUrl', baseUrl
-            buildConfigField 'String', 'Cookie', Cookie
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }

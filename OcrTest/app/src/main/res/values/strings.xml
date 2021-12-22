@@ -12,5 +12,6 @@
     <string name="library_description_label">This the file list that you processed with the OCR , you can click on the items to show the scanned text</string>
     <string name="capture_tab_description_label">Click on this tab to access the camera</string>
     <string name="library_tab_description_label">Click on this tab to access the saved texts</string>
+    <string name="text_preview_description_label">you can check the text preview after Capture and OCR processing</string>
 
 </resources>
