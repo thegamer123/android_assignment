@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/drawable/button_round_background.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/drawable/rectangle_background.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/drawable/round_background_layout.xml" value="0.36512820512820515" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/file_row.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/fragment_capture.xml" value="0.14" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/fragment_home.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/OcrTest/app/src/main/res/layout/fragment_library.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/envision-android-assignment/OcrTest/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/envision-android-assignment/OcrTest/app/src/main/res/layout/fragment_capture.xml" value="0.3546875" />
+        <entry key="..\:/Users/Lenovo/Desktop/envision-android-assignment/OcrTest/app/src/main/res/layout/fragment_home.xml" value="0.3351851851851852" />
+        <entry key="..\:/Users/Lenovo/Desktop/envision-android-assignment/OcrTest/app/src/main/res/layout/fragment_library.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

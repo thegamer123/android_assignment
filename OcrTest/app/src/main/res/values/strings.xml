@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OcrTest</string>
+    <string name="capture_label">capture</string>
+    <string name="library_label">library</string>
+    <string name="ocr_in_progress_label">OCR in progress…</string>
+    <string name="save_to_library_label">SAVE TEXT TO LIBRARY</string>
+    <string name="text_saved_label">Text saved to library!</string>
+    <string name="go_to_library_label">GO TO LIBRARY</string>
+    <string name="capture_description_label">capture button that help us to take a picture and then do the OCR processing</string>
+    <string name="camera_description_label">Camera view to scan the paper you want to read</string>
+    <string name="ocr_description_label">OCR processing in progress , please wait</string>
+    <string name="library_description_label">This the file list that you processed with the OCR , you can click on the items to show the scanned text</string>
+    <string name="capture_tab_description_label">Click on this tab to access the camera</string>
+    <string name="library_tab_description_label">Click on this tab to access the saved texts</string>
+
+</resources>

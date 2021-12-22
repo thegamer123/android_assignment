@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/captureFragment"
+        android:name="com.bouraoui.ocrtest.ui.fragment.capture.CaptureFragment"
+        tools:layout="@layout/fragment_capture" />
+    <fragment
+        android:id="@+id/libraryFragment"
+        android:name="com.bouraoui.ocrtest.ui.fragment.library.LibraryFragment"
+        tools:layout="@layout/fragment_library" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.bouraoui.ocrtest.ui.fragment.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+</navigation>
